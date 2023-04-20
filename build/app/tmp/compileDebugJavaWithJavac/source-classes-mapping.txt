@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/mucyhealth/mucy/BuildConfig.java
+ com.mucyhealth.mucy.BuildConfig
